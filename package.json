@@ -1,0 +1,19 @@
+{
+  "name": "lab07",
+  "version": "1.0.0",
+  "description": "lab07",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmjimmy20/IETI-Lab_07.git"
+  },
+  "author": "Jimmy Moya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmjimmy20/IETI-Lab_07/issues"
+  },
+  "homepage": "https://github.com/Jmjimmy20/IETI-Lab_07#readme"
+}
