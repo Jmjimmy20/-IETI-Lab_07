@@ -3,7 +3,14 @@ module.exports = async function (context, req) {
 
     const task = req.body;
     // Implement the response
-    const responseMessage = { response: "Implement me!"};
+    const responseMessage = { response: {
+                                    description: task.description, 
+                                    name: task.name, 
+                                    status: task.status,
+                                    dueDate: task.dueDate
+                                }
+                            };
+    
 
     context.res = {
         status: 201,
