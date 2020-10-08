@@ -1,5 +1,9 @@
 # IETI-Lab_07
 
+## Azure ##
+
+https://lab07.azurewebsites.net/api/add-task?code=IqD24kvjx16WFMTYcER/HVW2BePXmpw5sI3P8fahtoraeMLvOCpdDQ==
+
 
 ## Código de Honor ##
 
